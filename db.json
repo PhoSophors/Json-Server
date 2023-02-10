@@ -1,28 +1,8 @@
 {
     "user": [
-      {
-        "id": "pho",
-        "fullname": "Pho SoPhors",
-        "password": "hello",
-        "email": "hello@gmail.com"
-      },
-      {
-        "id": "phors",
-        "fullname": "Pho SoPhors",
-        "password": "1111",
-        "email": "hello@gmail.com"
-      },
-      {
-        "id": "pho",
-        "fullname": "Pho SoPhors",
-        "password": "hello",
-        "email": "phors@gmail.com"
-      },
-      {
-        "id": "pho",
-        "fullname": "Pho SoPhors",
-        "password": "5555",
-        "email": "chou@gmail.com"
-      }
+      
+    ], 
+    "contact": [
+
     ]
   }
